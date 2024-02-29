@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\bin\Debug\DiscordRichPrecence.exe.config
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\bin\Debug\DiscordRichPrecence.exe
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\bin\Debug\DiscordRichPrecence.pdb
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\bin\Debug\DiscordRPC.pdb
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\bin\Debug\DiscordRPC.xml
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\obj\Debug\DiscordRichPresence.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\obj\Debug\DiscordRichPresence.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\obj\Debug\DiscordRichPresence.csproj.CopyComplete
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\obj\Debug\DiscordRichPrecence.exe
+C:\Users\user\Desktop\DiscordRichPrecence\DiscordRichPrecence\obj\Debug\DiscordRichPrecence.pdb
