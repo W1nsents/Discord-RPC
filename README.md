@@ -1,2 +1,2 @@
 # Discord-RPC
-Activity for your discord account
+Activity for your discord account.
